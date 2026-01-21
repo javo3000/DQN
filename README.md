@@ -2,7 +2,7 @@
 
 A from-scratch NumPy implementation of the neural safety value network from ["Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports"](https://arxiv.org/abs/2504.11771) (Oh, Lidard, Hu et al., 2025).
 
-![Learning Curve](learning_curve.png)
+
 
 ## Overview
 
